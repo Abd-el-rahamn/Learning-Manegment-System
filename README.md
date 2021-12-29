@@ -22,12 +22,12 @@ Universities
 Online Teaching Centers 
 
 ## Near vision of the 2 Sprints:
-#Sprint NO. 1
+### Sprint NO. 1
 By the end of this sprint, the basic available prototype of the login feature should be available on both the web and mobile platforms  we are designing. 
  Implement the basic UI / UX layout of your system in parallel with designing a secure database with proper authentication and authorization, and proper data modeling. 
  This for all expected forms of data objects allows you to better visualize and develop further on the whole system. Main overview: 
  An interactive user interface for login screens for  teachers and students.  Complete database design with proper modeling for the data you need. Implements the ability to grant specific approvals to selected accounts. Implement the ability to securely authenticate the login process.
-#SPRINT NO.2
+### SPRINT NO.2
 This sprint should be an overview of the  basic teacher features of both web and mobile platforms that allow teachers  to upload selected content. 
  Posting materials for a specified course, posting assignments on specific dates, posting quizzes on specific start and end dates. 
 A Quicklook:
