@@ -35,3 +35,7 @@ A Quicklook:
  Implements the ability to add the following document formats (.pdf, .docx, .doc, .jpeg, .png) to the database with proper authentication and authorization. 
  Implement the ability to edit or delete published documents with proper authentication and authorization. 
  Implement the ability to set the due date of the task and the start and end dates of the quiz.
+
+##Long Term View
+Our goal is to develop a solid cross-platform open source application that provides a variety of capabilities to the education sector and contributes significantly to facilitation and promotion.Modernize traditional learning systems. We are building a cross-platform application that can be used by anyone, anywhere, regardless of device. 
+ Use open source so that developers are free to  add additional features and, in some cases, learn from them.
