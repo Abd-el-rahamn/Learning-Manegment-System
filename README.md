@@ -3,7 +3,7 @@
 ### Name: Ammar Network Administrator Expertise: Designing and planning the network ,Setting up the network ,Maintaining the network ,Expanding the network
 ### Name: Omar Role: Database developer Expertise: Assist with schema design, code review, SQL query tuning, Microsoft SQL Server ,Proactively and regularly make recommendations for system improvements Collate, prepare and present statistical information for internal and external use
 ### Name: Hana Role: Backend developer Expertise: Java, PHP, and Python
-### Name: Sheriene Role: node.js ,javascript , graphQl ,Django ,php
+### Name: Sheriene Role: Backend developer Expertise: node.js ,javascript , graphQl ,Django ,php
 
 ## Team FrontEnd:
 ### Name: Abdelrahman Role: Front-End Developer Expertise: HTML, CSS, JavaScript, and DOM,object oriented ,Building reusable code for future use ,Optimizing web pages for maximum speed and scalability.
