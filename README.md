@@ -38,10 +38,10 @@ A Quicklook:
  Implement the ability to edit or delete published documents with proper authentication and authorization. 
  Implement the ability to set the due date of the task and the start and end dates of the quiz.
 
-##Long Term View
+## Long Term View
 Our goal is to develop a solid cross-platform open source application that provides a variety of capabilities to the education sector and contributes significantly to facilitation and promotion.Modernize traditional learning systems. We are building a cross-platform application that can be used by anyone, anywhere, regardless of device. 
  Use open source so that developers are free to  add additional features and, in some cases, learn from them.
 
-###Product backlog Rational 
+### Product backlog Rational 
  The order of the backlog items is based on the true business value given to the stakeholders, taking into account the potential return on investment. 
  For products of similar commercial value, they are categorized according to their interdependencies.
