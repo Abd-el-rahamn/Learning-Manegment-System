@@ -45,3 +45,7 @@ Our goal is to develop a solid cross-platform open source application that provi
 ## Product backlog Rational 
  The order of the backlog items is based on the true business value given to the stakeholders, taking into account the potential return on investment. 
  For products of similar commercial value, they are categorized according to their interdependencies.
+ 
+## Project Description
+cross-platform software to manage the entire education process for all educational centers. Our products are open source 
+ An educational support system for  teachers and students that makes the teaching process much easier in a modern and simple way.
