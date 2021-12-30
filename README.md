@@ -51,6 +51,6 @@ cross-platform software to manage the entire education process for all education
  An educational support system for  teachers and students that makes the teaching process much easier in a modern and simple way.
  
  ## we used modified febonacci in estimating story points 
-5	very Small Story, 8	Small Story, 13	Medium Story, 20	Large Story, 40	very Large Story ,The sprint duration is 3 weeks ,The team can achieve around 55 story point per sprint ,so they can finish all work around 3-6 sprints.
+5	very Small Story, 8	Small Story, 13	Medium Story, 20	Large Story, 40	very Large Story ,The sprint duration is 2 weeks ,The team can achieve around 55 story point per sprint ,so they can finish all work around 3-6 sprints.
 ## Workflow Rational:
 As for the rationale behind this diagram is that one of the agile basic practices is (Test-driven Development), Test-driven supports developers to build automated units which makes it possible to test at any stage of development and verify backward compatibility
