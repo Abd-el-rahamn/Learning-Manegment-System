@@ -49,3 +49,6 @@ Our goal is to develop a solid cross-platform open source application that provi
 ## Project Description
 cross-platform software to manage the entire education process for all educational centers. Our products are open source 
  An educational support system for  teachers and students that makes the teaching process much easier in a modern and simple way.
+ 
+ ## we used modified febonacci in estimating story points 
+5	very Small Story, 8	Small Story, 13	Medium Story, 20	Large Story, 40	very Large Story ,The sprint duration is 3 weeks ,The team can achieve around 55 story point per sprint ,so they can finish all work around 3-6 sprints.
